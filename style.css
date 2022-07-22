@@ -1,0 +1,16 @@
+h2.bread {
+    color: dodgerblue;
+}
+
+.container {
+    align-content: center;
+}
+.background {
+ background-color: #6699ff;
+}
+.row-white{
+    background-color: white;
+}
+#cat2{
+    cursor: pointer;
+}
